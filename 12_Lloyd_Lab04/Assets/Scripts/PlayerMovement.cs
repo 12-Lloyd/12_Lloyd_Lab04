@@ -11,12 +11,6 @@ public class PlayerMovement : MonoBehaviour
     public int coin;
     public GameObject coinText;
 
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {

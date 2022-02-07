@@ -10,8 +10,11 @@ EditorBuildSettings:
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
     path: Assets/Scenes/GamePlay_Level2.unity
-    guid: c2d5fea81e208e0409b1e7824b52546d
+    guid: 19dd1214b8412d343994388975793b58
   - enabled: 1
     path: Assets/Scenes/GameLose.unity
     guid: 016f1d3dceb79854186e2c2e6d905b70
+  - enabled: 1
+    path: Assets/Scenes/GameWin.unity
+    guid: 82cabcc1e32ab134e83db59096fd63f3
   m_configObjects: {}
